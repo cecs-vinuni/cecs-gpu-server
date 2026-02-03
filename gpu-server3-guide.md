@@ -1,4 +1,4 @@
-# Vinuni - GPU Server User Guide
+# VinUni - GPU Server 3 (RTX 5090) User Guide
 
 ## 1) Server Overview
 
