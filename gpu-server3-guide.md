@@ -46,7 +46,7 @@ mkdir -p "$OUT_DIR" /mnt/logs
 ### 3.1 SSH Login
 
 ```bash
-ssh <your_username>@server3-cecs-vinuni
+ssh <your_username>@10.140.24.19
 
 ```
 
